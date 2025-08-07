@@ -22,9 +22,6 @@ Supported Devices and Protocols:
 Release :
 https://github.com/psieg/Lightpack/releases
 
-<p align="center">
-	<img src="Software/res/icons/Prismatik.png" width="192" />
-</p>
 
 Lightpack project with Prismatik flavour
 ---------
