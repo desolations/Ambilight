@@ -6,7 +6,7 @@ https://github.com/psieg/Lightpack
 
 Supported Devices and Protocols:
 - Lightpack PC/v1
--  
+ 
 - Serial
     Adalight
     Ardulight
